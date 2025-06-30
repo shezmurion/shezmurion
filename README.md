@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/shezmurion/shezmurion/blob/main/assets/shezmurion.png)
 
 About me
 
