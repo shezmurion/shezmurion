@@ -11,5 +11,3 @@
 ![Swagger](https://img.shields.io/badge/-swagger-E3650D?style=for-the-badge&logo=swagger&logoColor=FFFFFF)
 
 
-
-Follow me
